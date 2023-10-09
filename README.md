@@ -1,5 +1,5 @@
-### EX NO : 03
-# <p align="center">Implementation of Exact Inference Method of Bayesian Network</p>
+### Ex-03---Implementation of Exact Inference Method of Bayesian Network</p>
+
 
 ## Aim :
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
@@ -22,9 +22,9 @@ Perform exact inference using the defined evidence and query variables.<br>
 Print the results.<br>
 
 ## Program :
-Developed By : **Varsha Ajith**
+Developed By : **KERSOAN P**
 </br>
-Register No. : **212221230118**
+Register No. : **212221230050**
 ```py
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
